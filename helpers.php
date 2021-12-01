@@ -1,6 +1,7 @@
 <?php
 
 CONST PE = PHP_EOL;
+CONST BR = '<br>';
 
 function dd($input){
 	var_dump($input);
