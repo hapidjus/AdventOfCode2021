@@ -3,6 +3,12 @@
 CONST PE = PHP_EOL;
 CONST BR = '<br>';
 
+function dp($input){
+    echo '<pre>';
+	var_dump($input);
+    echo '</pre>';
+	die();
+}
 function dd($input){
 	var_dump($input);
 	die();
